@@ -1,4 +1,4 @@
-# Projet_IA : Client 1
+# Projet_IA :
 projet A3 IA
 
 ## Notebook.ipynb
